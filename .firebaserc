@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "swiggycloneapp-5e694"
+  },
+  "targets": {
+    "swiggycloneapp-5e694": {
+      "hosting": {
+        "app": [
+          "swiggycloneapp-5e694"
+        ]
+      }
+    }
+  }
+}

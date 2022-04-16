@@ -1,0 +1,6 @@
+{
+	"appId": "com.naveen.foodie",
+	"appName": "Foodie",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'swiggyCloneApp',
+  appId: 'com.naveen.foodie',
+  appName: 'Foodie',
   webDir: 'www',
   bundledWebRuntime: false
 };
