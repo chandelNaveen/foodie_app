@@ -13,7 +13,7 @@ export const environment = {
     messagingSenderId: '330858568601',
     measurementId: 'G-FPRDFY8DMH',
   },
-  googleMapsApiKey: 'AIzaSyCE1meojeYS6iKO1yAEPZytxSG1SZTQAbA'
+  googleMapsApiKey: 'My private key'
 };
 
 /*
